@@ -6,7 +6,7 @@
 
 ``` bash
 # install dependencies
-安装
+安装3
 npm install
 
 # serve with hot reload at localhost:8080
